@@ -1,0 +1,13 @@
+org/kizilay/yusuf/CdiApp/interceptors/Loggable.class
+org/kizilay/yusuf/CdiApp/qualifiers/EightDigits.class
+org/kizilay/yusuf/CdiApp/service/impl/MockGenerator.class
+org/kizilay/yusuf/CdiApp/service/impl/IsbnGenerator.class
+org/kizilay/yusuf/CdiApp/interceptors/LoggingInterceptor.class
+org/kizilay/yusuf/CdiApp/producers/LoggingProducer.class
+org/kizilay/yusuf/CdiApp/service/NumberGenerator.class
+org/kizilay/yusuf/CdiApp/qualifiers/ThirteenDigits.class
+org/kizilay/yusuf/CdiApp/model/Book.class
+org/kizilay/yusuf/CdiApp/service/BookService.class
+org/kizilay/yusuf/CdiApp/service/impl/IssnGenerator.class
+org/kizilay/yusuf/CdiApp/MainClass.class
+org/kizilay/yusuf/CdiApp/App.class

@@ -1,0 +1,13 @@
+/home/yusuf/Workspace/CdiApp/src/main/java/org/kizilay/yusuf/CdiApp/qualifiers/ThirteenDigits.java
+/home/yusuf/Workspace/CdiApp/src/main/java/org/kizilay/yusuf/CdiApp/service/impl/MockGenerator.java
+/home/yusuf/Workspace/CdiApp/src/main/java/org/kizilay/yusuf/CdiApp/service/BookService.java
+/home/yusuf/Workspace/CdiApp/src/main/java/org/kizilay/yusuf/CdiApp/model/Book.java
+/home/yusuf/Workspace/CdiApp/src/main/java/org/kizilay/yusuf/CdiApp/interceptors/Loggable.java
+/home/yusuf/Workspace/CdiApp/src/main/java/org/kizilay/yusuf/CdiApp/service/impl/IssnGenerator.java
+/home/yusuf/Workspace/CdiApp/src/main/java/org/kizilay/yusuf/CdiApp/service/impl/IsbnGenerator.java
+/home/yusuf/Workspace/CdiApp/src/main/java/org/kizilay/yusuf/CdiApp/interceptors/LoggingInterceptor.java
+/home/yusuf/Workspace/CdiApp/src/main/java/org/kizilay/yusuf/CdiApp/producers/LoggingProducer.java
+/home/yusuf/Workspace/CdiApp/src/main/java/org/kizilay/yusuf/CdiApp/service/NumberGenerator.java
+/home/yusuf/Workspace/CdiApp/src/main/java/org/kizilay/yusuf/CdiApp/qualifiers/EightDigits.java
+/home/yusuf/Workspace/CdiApp/src/main/java/org/kizilay/yusuf/CdiApp/App.java
+/home/yusuf/Workspace/CdiApp/src/main/java/org/kizilay/yusuf/CdiApp/MainClass.java
